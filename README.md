@@ -1,3 +1,3 @@
-# Patika_SQL_Basic
-### Çalışmadaki örnekler için __dvdrental__ veri tabanı kullanılmıştır.
-### Patika.dev ödevler serisidir.
+### Patika_SQL_Basic
+#### Çalışmadaki örnekler için _dvdrental_ veri tabanı kullanılmıştır.
+#### Patika.dev ödevler serisidir.
